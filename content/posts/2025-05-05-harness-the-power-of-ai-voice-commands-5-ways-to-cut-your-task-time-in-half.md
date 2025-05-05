@@ -1,7 +1,7 @@
 ```yaml
 ---
 title: "Harness the Power of AI Voice Commands: 5 Ways to Cut Your Task Time in Half"
-date: 2023-11-22
+date: 2025-05-05
 ---
 ```
 
