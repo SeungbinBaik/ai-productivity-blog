@@ -1,0 +1,18 @@
+
+baseURL = "https://example.com/"
+languageCode = "en-us"
+title = "AI Productivity Blog"
+theme = "papermod"
+paginate = 10
+
+[params]
+  author = "Seungbin"
+  description = "Daily tips and tools for boosting productivity with AI"
+  ShowShareButtons = true
+  ShowReadingTime = true
+
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
