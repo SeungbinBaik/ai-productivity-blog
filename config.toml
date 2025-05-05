@@ -3,7 +3,8 @@ baseURL = "https://example.com/"
 languageCode = "en-us"
 title = "AI Productivity Blog"
 theme = "papermod"
-paginate = 10
+[pagination]
+  pagerSize = 10
 
 [params]
   author = "Seungbin"
