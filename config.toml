@@ -11,6 +11,7 @@ theme = "papermod"
   description = "Daily tips and tools for boosting productivity with AI"
   ShowShareButtons = true
   ShowReadingTime = true
+  googleAnalytics = "G-E6HZVVG96Y"
 
 [menu]
   [[menu.main]]
