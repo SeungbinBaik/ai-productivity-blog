@@ -1,4 +1,3 @@
-
 baseURL = "https://ai-productivity-blog.pages.dev"
 languageCode = "en-us"
 title = "AI Productivity Blog"
@@ -9,9 +8,10 @@ theme = "papermod"
 [params]
   author = "Seungbin"
   description = "Daily tips and tools for boosting productivity with AI"
-  ShowShareButtons = true
+  ShowShareButtons = false
   ShowReadingTime = true
   googleAnalytics = "G-E6HZVVG96Y"
+  googleAdsense = "ca-pub-9209974718694823"  # Replace XXXXXXXXXXXXXXXX with your actual AdSense Publisher ID
 
 [menu]
   [[menu.main]]

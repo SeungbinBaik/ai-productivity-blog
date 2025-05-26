@@ -11,3 +11,9 @@
     gtag('config', '{{ site.Params.googleAnalytics }}');
   </script>
 {{ end }}
+
+{{ if site.Params.googleAdsense }}
+  <!-- Google AdSense -->
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client={{ site.Params.googleAdsense }}"
+     crossorigin="anonymous"></script>
+{{ end }}
